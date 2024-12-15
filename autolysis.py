@@ -1,3 +1,21 @@
+# /// script
+# requires-python=">=3.9"
+# dependencies = [
+#     "pandas",
+#     "numpy",
+#     "matplotlib",
+#     "seaborn",
+#     "requests",
+#     "scikit-learn",
+#     "tabulate",
+#     "chardet",
+#     "asyncio",
+#     "typing",
+#     "httpx",
+# ]
+# ///
+
+
 import os
 import sys
 import pandas as pd
