@@ -10,7 +10,6 @@
 #     "tabulate",
 #     "chardet",
 #     "asyncio",
-#     "typing",
 #     "httpx",
 # ]
 # ///
